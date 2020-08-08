@@ -1,0 +1,19 @@
+@media only screen and (min-width:700px) {
+    .row12 {
+        margin-left: 300px;
+        font-family: 'Courgette', cursive;
+    }
+    .row11 {
+        font-family: 'Courgette', cursive;
+        margin-left: 400px;
+    }
+    #row1 {
+        font-family: 'Courgette', cursive;
+        margin-left: 400px;
+    }
+}
+
+body {
+    background-color: lightblue;
+    background-image: linear-gradient(to right, lightblue, white);
+}
